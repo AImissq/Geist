@@ -23,12 +23,12 @@ Note: Font settings to be added in the future
 qt5-default qt5-qmake
 
 ## Building Geist
-`git clone https://github.com/jubal-R/Geist.git`
-`cd Geist`
-`mkdir build`  
-`cd build`  
-`qmake ../Geist/Geist.pro`  
-`make`
+git clone https://github.com/jubal-R/Geist.git
+cd Geist
+mkdir build  
+cd build 
+qmake ../Geist/Geist.pro  
+make
 
 ## Features To Be Added
 - Additional preference options
